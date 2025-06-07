@@ -1,0 +1,12 @@
+{
+  "name": "simple-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "A simple WhatsApp bot with one command using Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0"
+  }
+}
